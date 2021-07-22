@@ -5,4 +5,4 @@ A Flutter project by Athe1stB which shows you the current weather details of you
 ## Getting Started
 
 For help or any querries please write to 
-[LBCC](lbccpvtgroup@gmail.com).
+[LBCC](mailto:lbccpvtgroup@gmail.com).
